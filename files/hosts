@@ -1,0 +1,13 @@
+#127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+#::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+192.168.6.78 localhost
+192.168.7.215 monitor.pic.com
+192.168.7.216 monitor.video.com
+192.168.7.218 monitor.mysql.slave
+192.168.7.219 monitor.mysql.master
+192.168.7.220 monitor.web.com
+192.168.7.219 jiankong.web.mysql.com.cn
+192.168.7.217 dbslave-217
+172.19.62.32 puppetmaster.puppet.com
+192.168.6.78 puppetclient.puppet.com
+113.108.148.98 monitor.mysql.slave 

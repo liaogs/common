@@ -1,0 +1,6 @@
+[zabbix]
+enabled=1
+baseurl=http://repo.zabbix.com/zabbix/2.2/rhel/6/$basearch/
+gpgcheck=1
+name=Zabbix Official Repository - x86_64
+gpgkey=http://repo.zabbix.com/RPM-GPG-KEY-ZABBIX
